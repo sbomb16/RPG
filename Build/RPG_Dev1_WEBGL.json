@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RPG",
+"productVersion": "0.1",
+"dataUrl": "RPG_Dev1_WEBGL.data.unityweb",
+"wasmCodeUrl": "RPG_Dev1_WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "RPG_Dev1_WEBGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
